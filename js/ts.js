@@ -7,7 +7,7 @@ const personalMovieDB = {
 	movies: {},
 	actors: {},
 	genres: [],
-	privat: false
+	privat: false,
 };
 
 for (let i = 0; i < 2; i++) {
